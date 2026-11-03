@@ -15,7 +15,7 @@ class Home extends StatelessWidget {
       key: scaffoldKey,
       appBar: AppBar(backgroundColor: Colors.blue, title: Text('Title')),
       body: Container(
-        color: Colors.grey,
+        color: Colors.red,
         child: ListView(
           children: [
             Center(
